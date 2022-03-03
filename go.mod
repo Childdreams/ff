@@ -1,4 +1,4 @@
-module github.com/Childdreams/ThirdApi_Gin
+module github.com/Childdreams/ff
 
 go 1.16
 
